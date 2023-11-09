@@ -1,0 +1,123 @@
+[
+  {
+    "id": "18bb5240c28_John",
+    "firstName": "John",
+    "lastName": "Smith",
+    "day": 12,
+    "month": "January",
+    "year": 1973,
+    "password": "John959",
+    "profil_image": "profile-image-1",
+    "email": "john.smith@example.com",
+    "description": "Friendly Reading enthusiast."
+  },
+  {
+    "id": "18bb5240c28_Alice",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "day": 5,
+    "month": "May",
+    "year": 1993,
+    "password": "Alice1102",
+    "profil_image": "profile-image-3",
+    "email": "alice.johnson@yahoo.com",
+    "description": "Inspired Photography enthusiast."
+  },
+  {
+    "id": "18bb5240c29_Bob",
+    "firstName": "Bob",
+    "lastName": "Williams",
+    "day": 1,
+    "month": "December",
+    "year": 1976,
+    "password": "Bob1218",
+    "profil_image": "profile-image-2",
+    "email": "bob.williams@yahoo.com",
+    "description": "Enthusiastic UX design enthusiast."
+  },
+  {
+    "id": "18bb5240c29_Emma",
+    "firstName": "Emma",
+    "lastName": "Jones",
+    "day": 30,
+    "month": "August",
+    "year": 1975,
+    "password": "Emma319",
+    "profil_image": "profile-image-5",
+    "email": "emma.jones@gmail.com",
+    "description": "Enthusiastic Writing enthusiast."
+  },
+  {
+    "id": "18bb5240c29_David",
+    "firstName": "David",
+    "lastName": "Brown",
+    "day": 27,
+    "month": "March",
+    "year": 1978,
+    "password": "David1814",
+    "profil_image": "profile-image-4",
+    "email": "david.brown@yahoo.com",
+    "description": "Creative Photography enthusiast."
+  },
+  {
+    "id": "18bb5240c29_Olivia",
+    "firstName": "Olivia",
+    "lastName": "Davis",
+    "day": 15,
+    "month": "December",
+    "year": 1976,
+    "password": "Olivia668",
+    "profil_image": "profile-image-10",
+    "email": "olivia.davis@gmail.com",
+    "description": "Tech-savvy Cooking enthusiast."
+  },
+  {
+    "id": "18bb5240c29_Michael",
+    "firstName": "Michael",
+    "lastName": "Miller",
+    "day": 21,
+    "month": "September",
+    "year": 1973,
+    "password": "Michael1045",
+    "profil_image": "profile-image-7",
+    "email": "michael.miller@yahoo.com",
+    "description": "Enthusiastic Programming enthusiast."
+  },
+  {
+    "id": "18bb5240c29_Sophia",
+    "firstName": "Sophia",
+    "lastName": "Wilson",
+    "day": 9,
+    "month": "July",
+    "year": 1997,
+    "password": "Sophia1911",
+    "profil_image": "profile-image-12",
+    "email": "sophia.wilson@hotmail.com",
+    "description": "Enthusiastic Traveling enthusiast."
+  },
+  {
+    "id": "18bb5240c29_James",
+    "firstName": "James",
+    "lastName": "Moore",
+    "day": 17,
+    "month": "January",
+    "year": 1981,
+    "password": "James1022",
+    "profil_image": "profile-image-16",
+    "email": "james.moore@gmail.com",
+    "description": "Diligent Cooking enthusiast."
+  },
+  {
+    "id": "18bb5240c29_Emily",
+    "firstName": "Emily",
+    "lastName": "Taylor",
+    "day": 4,
+    "month": "June",
+    "year": 1994,
+    "password": "Emily1509",
+    "profil_image": "profile-image-15",
+    "email": "emily.taylor@hotmail.com",
+    "description": "Innovative Programming enthusiast."
+  }
+]
+
