@@ -7,7 +7,7 @@
     "month": "January",
     "year": 1973,
     "password": "John959",
-    "profil_image": "profile-image-1",
+    "profil_image": "profile-image-1.jpg",
     "email": "john.smith@example.com",
     "description": "Friendly Reading enthusiast."
   },
@@ -19,7 +19,7 @@
     "month": "May",
     "year": 1993,
     "password": "Alice1102",
-    "profil_image": "profile-image-3",
+    "profil_image": "profile-image-3.jpg",
     "email": "alice.johnson@yahoo.com",
     "description": "Inspired Photography enthusiast."
   },
@@ -31,7 +31,7 @@
     "month": "December",
     "year": 1976,
     "password": "Bob1218",
-    "profil_image": "profile-image-2",
+    "profil_image": "profile-image-2.jpg",
     "email": "bob.williams@yahoo.com",
     "description": "Enthusiastic UX design enthusiast."
   },
@@ -43,7 +43,7 @@
     "month": "August",
     "year": 1975,
     "password": "Emma319",
-    "profil_image": "profile-image-5",
+    "profil_image": "profile-image-5.jpg",
     "email": "emma.jones@gmail.com",
     "description": "Enthusiastic Writing enthusiast."
   },
@@ -55,7 +55,7 @@
     "month": "March",
     "year": 1978,
     "password": "David1814",
-    "profil_image": "profile-image-4",
+    "profil_image": "profile-image-4.jpg",
     "email": "david.brown@yahoo.com",
     "description": "Creative Photography enthusiast."
   },
@@ -67,7 +67,7 @@
     "month": "December",
     "year": 1976,
     "password": "Olivia668",
-    "profil_image": "profile-image-10",
+    "profil_image": "profile-image-10.jpg",
     "email": "olivia.davis@gmail.com",
     "description": "Tech-savvy Cooking enthusiast."
   },
@@ -79,7 +79,7 @@
     "month": "September",
     "year": 1973,
     "password": "Michael1045",
-    "profil_image": "profile-image-7",
+    "profil_image": "profile-image-7.jpg",
     "email": "michael.miller@yahoo.com",
     "description": "Enthusiastic Programming enthusiast."
   },
@@ -91,7 +91,7 @@
     "month": "July",
     "year": 1997,
     "password": "Sophia1911",
-    "profil_image": "profile-image-12",
+    "profil_image": "profile-image-12.jpg",
     "email": "sophia.wilson@hotmail.com",
     "description": "Enthusiastic Traveling enthusiast."
   },
@@ -103,7 +103,7 @@
     "month": "January",
     "year": 1981,
     "password": "James1022",
-    "profil_image": "profile-image-16",
+    "profil_image": "profile-image-16.jpg",
     "email": "james.moore@gmail.com",
     "description": "Diligent Cooking enthusiast."
   },
@@ -115,7 +115,7 @@
     "month": "June",
     "year": 1994,
     "password": "Emily1509",
-    "profil_image": "profile-image-15",
+    "profil_image": "profile-image-15.jpg",
     "email": "emily.taylor@hotmail.com",
     "description": "Innovative Programming enthusiast."
   }
